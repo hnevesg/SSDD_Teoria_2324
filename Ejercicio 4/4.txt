@@ -1,0 +1,9 @@
+algoritmo de cristian con ice
+
+- antes de hacer la invocacion en instante t1 
+    invocar getServerTime() con -> dni, t1
+- se invoca en ts
+- cuando llegue la respuesta, obtener t2 
+- calcular la nueva hora
+
+invocar notifyTime() con -> dni, nombre, t2, nueva hora, error cometido en el cálculo
